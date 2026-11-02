@@ -1,0 +1,39 @@
+.github/workflows/ci.yml
+  s_eb0b26e52cc031::t_fa8e48152ec38a 1-15
+.gitignore
+  s_eb0b26e52cc031::t_ae977f94aaa2ca 1-4
+README.md
+  s_eb0b26e52cc031::t_5b5b94a1acd1f9 1-24
+ROADMAP.md
+  s_eb0b26e52cc031::t_a61ba51a23074a 1-24
+core.go
+  s_90026bd1685103::t_81536e8a5045ef 1-42
+core_test.go
+  s_90026bd1685103::t_01272fd0003cb3 1-13
+go.mod
+  s_eb0b26e52cc031::t_d3c4cbafcced09 1-3
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.15",
+  "base_commit_sha": "8ca771f4c6ae867e34dfeb8d4a8b6863309522bd",
+  "prompts": {},
+  "sessions": {
+    "s_90026bd1685103": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "01a187ba-22aa-7793-8324-39d8f75719e0",
+        "model": "unknown"
+      },
+      "human_author": "Akshay Dhangar <48667712+akshay-dhangar@users.noreply.github.com>"
+    },
+    "s_eb0b26e52cc031": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a187ba-22aa-7793-8324-39d8f75719e0",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "Akshay Dhangar <48667712+akshay-dhangar@users.noreply.github.com>"
+    }
+  }
+}
